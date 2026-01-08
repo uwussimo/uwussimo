@@ -1,4 +1,4 @@
-<img src="./github-header-banner.png" width="100%"/>
+<!-- <img src="./github-header-banner.png" width="100%"/> -->
 
 <!-- profile banner -->
 <h3 align="center">My current focus is on user behavior and persuasive technologies.</h3>
