@@ -25,3 +25,10 @@ frontend   → typescript, react, next.js
 mobile     → react native, expo
 backend    → node.js, apis
 ```
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contibution (2).svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contibution.svg" />
+  <img alt="github-snake" src="./github-user-contibution.svg" />
+</picture>
