@@ -27,8 +27,4 @@ backend    → node.js, apis
 ```
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contibution (2).svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contibution.svg" />
-  <img alt="github-snake" src="./github-user-contibution.svg" />
-</picture>
+<img alt="github contribution grid snake animation" src="github-user-contribution.svg" style="visibility: visible; max-width: 100%;">
