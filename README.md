@@ -25,6 +25,3 @@ frontend   → typescript, react, next.js
 mobile     → react native, expo
 backend    → node.js, apis
 ```
-
-
-<img alt="github contribution grid snake animation" src="github-user-contribution.svg" style="visibility: visible; max-width: 100%;">
