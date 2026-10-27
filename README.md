@@ -5,21 +5,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/github/followers/uwussimo?label=followers&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/code-typescript-blue?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-web%20%7C%20mobile-black?style=for-the-badge" /></a>
 </p>
 
----
-
-### about
-- building software that **shapes behavior, not just interfaces**
-- deeply interested in **persuasive systems, habit formation, and behavioral design**
-- exploring how feedback loops, friction, and incentives influence long-term change
-- designing tools meant to help people **break bad habits and achieve real goals**
-
-### tech stack
-```txt
-frontend   → typescript, react, next.js
-mobile     → react native, expo
-backend    → node.js, apis
-```
